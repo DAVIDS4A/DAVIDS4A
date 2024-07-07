@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size: 1.2em; color: #20B2AA;">
-  I'm currently an intern at <strong>Bomare Company</strong> working on an assembly line detection system for faults and missing components in TV accessory bags, boxes, and on PCBs using Computer Vision.
+  I'm currently an intern at <strong>Bomare Company</strong>, manufacturers of <strong>STREAM</strong>strong> and <strong>LG</strong>strong> tvs and monitors, working on an assembly line detection system for faults and missing components in TV accessory bags, boxes, and on PCBs using Computer Vision.
 </p>
 
 <p align="center" style="color: #32CD32;">
