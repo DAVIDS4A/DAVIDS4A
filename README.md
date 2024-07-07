@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXXX/XXXXXX.png" alt="Profile Image" width="200" style="border-radius: 50%;"/>
+  <img src="https://drive.google.com/file/d/1Jet_Q8vMI3WZg18cfzcRi4e8P5h-4glz/view?usp=drive_link" alt="Profile Image" width="200" style="border-radius: 50%;"/>
 </p>
 
 <p align="center" style="color: #32CD32;">
@@ -20,7 +20,7 @@
 </ul>
 
 <p align="center" style="color: #FF69B4;">
-  <strong>🚀 Skills & Tools:</strong>
+  <strong>🚀 Tools:</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
