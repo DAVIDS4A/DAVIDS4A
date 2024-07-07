@@ -8,16 +8,11 @@
   I'm currently an intern at <strong>Bomare Company</strong> working on an assembly line detection system for faults and missing components in TV accessory bags, boxes, and on PCBs using Computer Vision.
 </p>
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1Jet_Q8vMI3WZg18cfzcRi4e8P5h-4glz/view?usp=sharing" alt="Profile Image" width="200" style="border-radius: 50%;"/>
-</p>
-
 <p align="center" style="color: #32CD32;">
   <strong>📫 How to reach me:</strong>
 </p>
-<ul align="center" style="list-style-type: none;">
-  <li>📧 <a href="mailto:shyakanobledavid18@gmail.com" style="color: #1E90FF;">Email</a></li>
-</ul>
+
+<p align="center">📧 <a href="mailto:shyakanobledavid18@gmail.com" style="color: #1E90FF;">Email</a></p>
 
 <p align="center" style="color: #FF69B4;">
   <strong>🚀 Tools:</strong>
