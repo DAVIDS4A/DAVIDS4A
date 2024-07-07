@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #6A0DAD;">👋 Hi, I'm Shyaka Noble David!</h1>
+<h1 align="center" style="color: #6A0DAD;">👋 Hi, I'm David!</h1>
 
 <p align="center" style="color: #FFA500;">
   <strong>🌟 Machine Learning Engineer | MSc. Intelligent Computer Systems Engineering | Mathematics and Computer Science Undergrad</strong>
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
